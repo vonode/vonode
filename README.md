@@ -25,7 +25,7 @@ encrypted SSH, and messages, call history and settings stay on the node you oper
 
 ## Features
 
-| | |
+| Feature | What it does |
 |---|---|
 | **Messages** | Read and send SMS for every number on the node, with automatic junk sorting. |
 | **Calls** | Make and answer calls through your node; incoming calls ring through CallKit, even in the background. |
@@ -47,7 +47,7 @@ notifications.
 
 ## Get started
 
-| | |
+| Next step | Links |
 |---|---|
 | **Install the node** | [Install guide](https://vonode.cc/install/) · [Step-by-step guide](https://vonode.cc/install/guide/) |
 | **Download** | [Latest node release](https://github.com/vonode/vonode-releases/releases/latest) · [Install instructions and wiki](https://github.com/vonode/vonode-releases) |
