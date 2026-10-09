@@ -42,8 +42,9 @@ encrypted SSH, and messages, call history and settings stay on the node you oper
 | Messages, calls, numbers and settings in a native app for iPhone and iPad. | A 64-bit Linux computer running the Vonode node software, with up to five USB cellular modules. | Your own SIM and eSIM plans. Wi-Fi calling works where your carrier enables it on the plan. |
 
 You pair the app by scanning a one-time QR code that your node shows. It is valid for five minutes,
-and the app pins the node's SSH host key. A small relay run by VONODE LLC only delivers Apple
-notifications.
+and the app pins the node's SSH host key. A small relay run by VONODE LLC delivers Apple notifications
+and confirms subscriptions; it does not store plaintext message content
+([Privacy Policy](https://vonode.cc/privacy/)).
 
 ## Get started
 
