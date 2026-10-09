@@ -50,7 +50,7 @@ notifications.
 | Next step | Links |
 |---|---|
 | **Install the node** | [Install guide](https://vonode.cc/install/) · [Step-by-step guide](https://vonode.cc/install/guide/) |
-| **Download** | [Latest node release](https://github.com/vonode/vonode-releases/releases/latest) · [Install instructions and wiki](https://github.com/vonode/vonode-releases) |
+| **Download** | [Node releases](https://github.com/vonode/vonode-releases/releases) (first public release coming soon) · [Install instructions and wiki](https://github.com/vonode/vonode-releases) |
 | **Check your hardware** | [Supported hardware](https://vonode.cc/hardware/) |
 | **Get the app** | Free download on the App Store · iOS and iPadOS 17 or later · free plan available |
 | **Support** | [support@vonode.cc](mailto:support@vonode.cc) · [vonode.cc/support](https://vonode.cc/support/) |
